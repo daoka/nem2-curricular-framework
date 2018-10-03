@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="blog list">
+    <h1>{{ page.tag | capitalize }}</small></h1>
+    
+    List of units for this target audicence. 
+    <br>
+    <br>
+
+    {% assign units = site.units | where:"targets", page.tag %}
+    <ul>
+
+            {%- for unit in units -%}
+            <li>
+                <a href="{{ unit.url | relative_url }}">
+                    {{ unit.title | escape }}
+                </a>
+            </li>
+            {%- endfor -%}
+
+    </ul>
+</div>
