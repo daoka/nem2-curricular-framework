@@ -53,4 +53,4 @@ targets:
 * Wüst, Karl; Gervais, Arthur. Do you need a blockchain?, 2018. [Online](https://eprint.iacr.org/2017/375.pdf)
 * Meunier, Sebastien. When do you need blockchain? Decision models, Medium, 2016. [Online](https://medium.com/@sbmeunier/when-do-you-need-blockchain-decision-models-a5c40e7c9ba1)
 * Architecturing on NEM. NEM Developer Documentation. [Online](https://nemtech.github.io/getting-started/what-is-nem.html)
-* Van de Reck, Kristof. Blockchain technologies implementation. NEM experience. 2017. [Video](https://www.youtube.com/watch?v=jTSNr2ocs5)
+* Van de Reck, Kristof. Blockchain technologies implementation. NEM experience. 2017. [Video](https://www.youtube.com/watch?v=jTSNr2ocs5I)
