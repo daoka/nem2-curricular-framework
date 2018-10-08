@@ -56,6 +56,7 @@ targets:
 ## Activities
 
 * Explain how blockchain works using a visual tool ([I](https://blockchaindemo.io/), [II](https://guggero.github.io/blockchain-demo/))
+* Compare different hashing algorithms using an online calculator ([I](https://emn178.github.io/online-tools/sha3_512.html), [II](https://www.pelock.com/products/hash-calculator))
 
 ## Resources
 
