@@ -29,9 +29,9 @@ Propose a specific use case to solve. Students can define and develop the soluti
 
 Examples: 
 
-* Ticketing. 
 * Identity.
-* Digital notarization.
+* Ticketing. [Workshop](https://blockchain.craftain.com/courses/getting-started-with-nem-catapult/)
+* Digital notarization. [Workshop](https://nemtech.github.io/nem2-workshop-document-notarization/)
 * Supply-Chain. [Workshop](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/)
 
 ### Option C: Specific project around a plugin / feature
