@@ -23,5 +23,5 @@ targets:
 
 ## Activities
 
-* Deloy a private network. [NIS1](http://mijin.io/en/mijin-baas), [Catapult (learning purposes)](https://github.com/tech-bureau/catapult-service-bootstrap)
+* Deloy a private network. [NIS1](https://mijin.io/en/), [Catapult (learning purposes)](https://github.com/tech-bureau/catapult-service-bootstrap)
 * Change private network configuration. [To be open sourced]

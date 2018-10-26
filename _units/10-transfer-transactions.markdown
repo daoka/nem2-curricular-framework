@@ -68,7 +68,7 @@ targets:
 
 **Developer / Sysadmin**
 * Avoid roll-back. [NIS1](https://gist.github.com/aleixmorgadas/3d856d318e60f901be09dbd23467b374)
-* Monitoring announced transactions. [NIS1](https://nemlibrary.com/guide/listener/),[Catapult](https://nemtech.github.io/guides/blockchain/debugging-transactions.html)
+* Monitoring announced transactions. [NIS1](https://nemlibrary.com/guide/listener/),[Catapult](https://nemtech.github.io/guides/transaction/debugging-transactions.html)
 * Keep track of announced transactions that fail. TBD
 
 ## Resources

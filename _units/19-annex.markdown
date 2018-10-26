@@ -13,7 +13,7 @@ permalink: /annex/nis1-catapult-comparison-matrix/
 | | **Minimum requirements** | RAM: At leat 2GB recommended <br> CPU: 1Ghz+ single core or more is recommended. | TBD | |
 | **Consensus Algorithm** | | Public chain: PoI <br> Private chain: PoS | TBD | |
 | **Transaction fees** | | [NIS1 transaction fees](https://nemproject.github.io/#transaction-fees) | TBD | |
-| **API** | | [Reference](https://nemproject.github.io/) | [Reference](https://nemtech.github.io/api.html) | Incompatible API contracts |
+| **API** | | [Reference](https://nemproject.github.io/) | [Reference](https://nemtech.github.io/api/requests.html) | Incompatible API contracts |
 | **Main Wallet** | | [NanoWallet](https://nem.io/downloads/) | TBD | |
 | **Dev tools** | | [NEM-SDK](https://github.com/QuantumMechanics/NEM-sdk), [nem-library](https://github.com/aleixmorgadas/nem-library-ts) | [NEM2-SDK](https://nemtech.github.io/sdk/languages.html) | |
 | **Transfer Transaction** | | Yes | Yes | |

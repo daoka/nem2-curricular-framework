@@ -19,7 +19,7 @@ targets:
 | Understand why it is required to send lock funds transactions (aggregate bonded). | 3 - Apply | - Prvent spam  |
 | Announce and cosign aggregate transactions.| 3 - Apply | |
 | (Developer) Apply RxJs functions and operators. | 3 - Apply |  - Map() <br> - MergeMap() <br> - Filter() <br> - toArray() |
-|Differentiate between aggregate bonded and aggregate complete transactions | 4 - Analyze | |
+| Differentiate between aggregate bonded and aggregate complete transactions | 4 - Analyze | |
 | Judge when to use aggregate bonded or aggregate complete transactions. | 5 - Evaluate |
 
 
@@ -72,4 +72,4 @@ targets:
 * Transaction. NEM Developer Documentation. [NIS1](http://docs.nem.io/en/transaction-components), [Catapult](https://nemtech.github.io/concepts/transaction.html)
 * Aggregate Transactions. [Catapult](https://nemtech.github.io/concepts/transaction.html#aggregate-transaction)
 * Daniels,  Paul P; Atencio, Luis;. RxJS in Action, Manning, 2017.                                                                  
-* Troncone, Brian. Learn RxJs. [Online](https://www.learnrxjs.io/)
+* Troncone, Brian. Learn RxJs. [Online](https://www.learnrxjs.io)

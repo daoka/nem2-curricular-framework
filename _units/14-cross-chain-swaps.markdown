@@ -30,7 +30,7 @@ targets:
 ## Activities
 
 **Developer**                                                                    
-* Using secret lock for atomic cross chain swap. [Catapult](https://nemtech.github.io/guides/transaction/using-secret-lock-transaction-for-atomic-cross-chain-swap.html)
+* Using secret lock for atomic cross chain swap. [Catapult](https://nemtech.github.io/guides/transaction/atomic-cross-chain-swap-between-NEM-public-and-private-chain.html)
 * Atomic Cross Chain Trading workshop. NEM Foundation, 2018. [To be open-sourced]
 
 ## Resources

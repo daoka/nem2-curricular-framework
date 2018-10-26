@@ -36,7 +36,7 @@ targets:
 * Apostille module. [NIS1](http://docs.nem.io/en/nanowallet/apostille-module), [Catapult](http://apostille.io)
 * Voting module. [NIS1](http://docs.nem.io/en/nanowallet/voting-module)
 * Invoice module. [NIS1](http://docs.nem.io/en/nanowallet/send-receive)
-* Catapult Libraries. [Catapult](https://nemtech.github.io/libraries/overview.html)
+* Catapult Libraries. [Catapult](https://nemtech.github.io/sdk/libraries.html)
 * Apostille library. [NIS1](https://github.com/QuantumMechanics/NEM-sdk#101---create-an-apostille), [Catapult](https://apostille.io)
 * Asset identifier library. [Catapult](https://github.com/aleixmorgadas/nem2-asset-identifier)
 * Voting library. [NIS1](https://github.com/shierve/nem-voting)
