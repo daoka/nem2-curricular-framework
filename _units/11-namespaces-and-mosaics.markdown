@@ -59,12 +59,12 @@ targets:
 * Editing a mosaic [NIS1](http://docs.nem.io/en/nanowallet/mosaics/edit-mosaic-asset)
 
 **Developer**                                                                                                                                                                                                                                                         
-* Send a transfer transaction containing multiple mosaics. [NIS1](https://nemlibrary.com/guide/transaction/#how-to-create-a-transfer-transaction-with-mosaics), 
+* Send a transfer transaction containing multiple mosaics. [NIS1](https://nemproject.github.io/nem-library-docs/guide/transaction/#how-to-create-a-transfer-transaction-with-mosaics), 
 [Catapult](https://nemtech.github.io/guides/transaction/sending-a-transfer-transaction.html)
-* Register a namespace. [NIS1](https://nemlibrary.com/guide/namespace/#how-to-create-a-namespace), [Catapult](https://nemtech.github.io/guides/namespace/registering-a-namespace.html)
-* Register a subnamespace. [NIS1](https://nemlibrary.com/guide/namespace/#how-to-create-a-sub-namespace),                                  [Catapult](https://nemtech.github.io/guides/namespace/registering-a-subnamespace.html)
-* Register a mosaic. [NIS1](https://nemlibrary.com/guide/mosaic/), [Catapult](https://nemtech.github.io/guides/mosaic/creating-a-mosaic.html)
-* Modifying mosaic supply. [NIS1](https://nemlibrary.com/guide/mosaic/), [Catapult](https://nemtech.github.io/guides/mosaic/modifying-mosaic-supply.html)
+* Register a namespace. [NIS1](https://nemproject.github.io/nem-library-docs/guide/namespace/#how-to-create-a-namespace), [Catapult](https://nemtech.github.io/guides/namespace/registering-a-namespace.html)
+* Register a subnamespace. [NIS1](https://nemproject.github.io/nem-library-docs/guide/namespace/#how-to-create-a-sub-namespace),                                  [Catapult](https://nemtech.github.io/guides/namespace/registering-a-subnamespace.html)
+* Register a mosaic. [NIS1](https://nemproject.github.io/nem-library-docs/guide/mosaic/), [Catapult](https://nemtech.github.io/guides/mosaic/creating-a-mosaic.html)
+* Modifying mosaic supply. [NIS1](https://nemproject.github.io/nem-library-docs/guide/mosaic/), [Catapult](https://nemtech.github.io/guides/mosaic/modifying-mosaic-supply.html)
 
 ## Resources
 

@@ -61,14 +61,14 @@ targets:
 * Send a transfer transaction. [NIS1](http://docs.nem.io/en/nanowallet/send-receive), [Catapult](https://flows.nodered.org/flow/7061090eb3cbf724c80e4f49e03e1b94)
 
 **Developer**                                                                                                                                                                                                                                                      
-* Send a transfer transaction. [NIS1](https://nemlibrary.com/guide/transaction/), [Catapult](https://nemtech.github.io/guides/transaction/sending-a-transfer-transaction.html)
+* Send a transfer transaction. [NIS1](https://nemproject.github.io/nem-library-docs/guide/transaction/), [Catapult](https://nemtech.github.io/guides/transaction/sending-a-transfer-transaction.html)
 * Get the amount of XEM sent to an account. [Catapult](https://nemtech.github.io/guides/account/getting-the-amount-of-XEM-sent-to-an-account.html)
-* Fetch confirmed and unconfirmed transactions. [NIS1](https://nemlibrary.com/guide/account/#how-to-receive-all-transactions-for-an-account),  [Catapult](https://nemtech.github.io/guides/account/receiving-transactions-from-an-account.html)
+* Fetch confirmed and unconfirmed transactions. [NIS1](https://nemproject.github.io/nem-library-docs/guide/account/#how-to-receive-all-transactions-for-an-account),  [Catapult](https://nemtech.github.io/guides/account/receiving-transactions-from-an-account.html)
 * Turning the asynchronous transaction announcement into synchronous. [Catapult](https://nemtech.github.io/guides/transaction/turning-the-asynchronous-transaction-announcement-into-synchronous.html)
 
 **Developer / Sysadmin**
 * Avoid roll-back. [NIS1](https://gist.github.com/aleixmorgadas/3d856d318e60f901be09dbd23467b374)
-* Monitoring announced transactions. [NIS1](https://nemlibrary.com/guide/listener/),[Catapult](https://nemtech.github.io/guides/transaction/debugging-transactions.html)
+* Monitoring announced transactions. [NIS1](https://nemproject.github.io/nem-library-docs/guide/listener/),[Catapult](https://nemtech.github.io/guides/transaction/debugging-transactions.html)
 * Keep track of announced transactions that fail. TBD
 
 ## Resources

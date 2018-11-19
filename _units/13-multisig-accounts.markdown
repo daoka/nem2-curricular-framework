@@ -59,12 +59,12 @@ targets:
 * How to send transactions from a multisig account. [NIS1](http://docs.nem.io/en/nanowallet/multisignature-multiuser/how-to-send-multisig)
 
 **Developer**                                                                                                                                                                                                                                                                              
-* Creating a multisig account. [NIS1](https://nemlibrary.com/guide/account/#how-to-convert-a-normal-account-into-multisig-account),  [Catapult](https://nemtech.github.io/guides/account/converting-an-account-to-multisig.html)
-* Modifying multisig account [NIS1](https://nemlibrary.com/guide/account/#how-to-convert-a-normal-account-into-multisig-account), [Catapult](https://nemtech.github.io/guides/account/modifying-a-multisig-account.html)
+* Creating a multisig account. [NIS1](https://nemproject.github.io/nem-library-docs/guide/account/#how-to-convert-a-normal-account-into-multisig-account),  [Catapult](https://nemtech.github.io/guides/account/converting-an-account-to-multisig.html)
+* Modifying multisig account [NIS1](https://nemproject.github.io/nem-library-docs/guide/account/#how-to-convert-a-normal-account-into-multisig-account), [Catapult](https://nemtech.github.io/guides/account/modifying-a-multisig-account.html)
 * Get all cosigners from a multisig and multisigs involving given an account.                                                         [Catapult](https://nemtech.github.io/guides/account/converting-an-account-to-multisig.html)
 * Creating a multi-level multisig account. [Catapult](https://nemtech.github.io/guides/account/creating-a-multi-level-multisig-account.html)
-* How to send transactions from a multisig account. [NIS1](https://nemlibrary.com/guide/transaction/#how-to-create-a-multisig-transaction), [Catapult](https://nemtech.github.io/guides/transaction/sending-a-multisig-transaction.html)
-* Signing pending multisig transactions. [NIS1](https://nemlibrary.com/guide/account/#how-to-sign-unconfirmed-multisig-transactions), [Catapult](https://nemtech.github.io/guides/transaction/signing-announced-aggregate-bonded-transactions.html)
+* How to send transactions from a multisig account. [NIS1](https://nemproject.github.io/nem-library-docs/guide/transaction/#how-to-create-a-multisig-transaction), [Catapult](https://nemtech.github.io/guides/transaction/sending-a-multisig-transaction.html)
+* Signing pending multisig transactions. [NIS1](https://nemproject.github.io/nem-library-docs/guide/account/#how-to-sign-unconfirmed-multisig-transactions), [Catapult](https://nemtech.github.io/guides/transaction/signing-announced-aggregate-bonded-transactions.html)
 
 ## Resources
 

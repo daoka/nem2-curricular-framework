@@ -57,9 +57,9 @@ targets:
 * Getting account information. [NIS1](http://docs.nem.io/en/nanowallet/nanowallet-explorer)  
 
 **Developer**                                                                                                                                              
-* Create a wallet. [NIS1](https://nemlibrary.com/documentation/wallet/), [Catapult](https://nemtech.github.io/guides/account/creating-and-opening-an-account.html)
-* Create an account. [NIS1](https://nemlibrary.com/documentation/wallet/), [Catapult](https://nemtech.github.io/guides/account/creating-and-opening-an-account.html)
-* Getting account information. [NIS1](https://nemlibrary.com/guide/account/), [Catapult](https://nemtech.github.io/guides/account/getting-account-information.html)
+* Create a wallet. [NIS1](https://nemproject.github.io/nem-library-docs/documentation/wallet/), [Catapult](https://nemtech.github.io/guides/account/creating-and-opening-an-account.html)
+* Create an account. [NIS1](https://nemproject.github.io/nem-library-docs/documentation/wallet/), [Catapult](https://nemtech.github.io/guides/account/creating-and-opening-an-account.html)
+* Getting account information. [NIS1](https://nemproject.github.io/nem-library-docs/guide/account/), [Catapult](https://nemtech.github.io/guides/account/getting-account-information.html)
 
 ## Resources
 

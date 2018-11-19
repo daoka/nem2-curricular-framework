@@ -46,8 +46,8 @@ targets:
 **Developer**                                                                                                                                   
 * Set up environment. [NIS1](http://docs.nem.io/en/nem-sdk/nem-sdk-install), [Catapult](https://nemtech.github.io/getting-started/setup-workstation.html)
 * Running the explorer. [Catapult](https://github.com/tech-bureau/catapult-service-bootstrap\#starting-with-test-block-explorer)
-* Creating an Account. [NIS1](https://nemlibrary.com/documentation/wallet/), [Catapult](https://nemtech.github.io/guides/account/creating-and-opening-an-account.html)
-* Creating a Wallet. [NIS1](https://nemlibrary.com/documentation/wallet/), [Catapult](https://nemtech.github.io/guides/account/creating-and-opening-an-account.html)
+* Creating an Account. [NIS1](https://nemproject.github.io/nem-library-docs/documentation/wallet/), [Catapult](https://nemtech.github.io/guides/account/creating-and-opening-an-account.html)
+* Creating a Wallet. [NIS1](https://nemproject.github.io/nem-library-docs/documentation/wallet/), [Catapult](https://nemtech.github.io/guides/account/creating-and-opening-an-account.html)
 
 ## Resources
 
