@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "03. Development cycle"
-permalink: /units/developmeny-cycle/
+permalink: /units/development-cycle/
 targets: 
     - "prototyping"
     - "developer"
