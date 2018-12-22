@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "01 - Introduction to Blockchain"
+title:  "01. Introduction to Blockchain"
 permalink: /units/introduction-to-blockchain/
 targets: 
     - "prototyping"
@@ -22,36 +22,34 @@ targets:
 ## Proposed outline
 
 1. Introduction
-    * Introduce the course.
-2. What is blockchain?
-    * Explain what blockchain technology is.
-    * Explain which problems try to solve.
+    * Explain what is blockchain.
+    * Explain which problems solve:
         - Trust
     * Remark blockchain properties:
-        -	Immutability.
-        - Distributed.
+        - Immutability
+        - Distributed
     * Describe blockchain challenges when developing applications:
-        -	Immutability.
-        -	Security.
-        - Inefficient.
-        - Transparency.
-3. Use Cases
+        - Immutability
+        - Security
+        - Inefficient
+        - Transparency
+2. Use Cases
     * Present a set of use cases where blockchain can fit.
-4. How does blockchain work?
+3. How does blockchain work?
     * Detail how blockchain technology works, explaining how blocks, transactions and hash are related.
-    * Explain different consensus algorithms.
-        - Proof of Work.
-        - Proof of Stake.
-        - Proof of Importance.
-5. Types of Network
+    * Explain different consensus algorithms:
+        - Proof of Work
+        - Proof of Stake
+        - Proof of Importance
+4. Types of Network
     * Describe the different types of network.
-      - Public.
-      - Permissioned.
-      - Private.
-    * Enumerate characteristics of permissioned/private blockchains. 
-      - Immutable or not.
-      - Transparent or not.
-      - More transactions per second.
+      - Public
+      - Permissioned
+      - Private
+    * Enumerate characteristics of permissioned/private blockchains:
+      - Immutability?
+      - Transparency?
+      - More transactions per second
 
 ## Activities
 

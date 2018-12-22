@@ -4,7 +4,7 @@ title:  "NEM Curricular Framework"
 permalink: /
 ---
 
-### v.0.1.6
+### v.0.2
 
     ℹ️ The NEM Curricular Framework is under construction. The structure may be substantially modified until the version 1.0.0.
    

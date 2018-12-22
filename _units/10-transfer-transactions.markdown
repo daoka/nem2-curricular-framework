@@ -15,49 +15,52 @@ targets:
 | Identify transfer transaction parameters. | 1 - Remember | - Recipient<br> - Mosaic <br> - Message |
 | Comprehend the usage of transfer transactions. | 2 - Understand | - Transfer mosaics<br> - Messaging (encrypted or not) |
 | Recognize transaction status errors. | 2 - Understand | |
-| Comprehend transaction cycle. | 2 - Understand | - Confirmed <br> - Unconfirmed <br> - Error - Status |
+| Comprehend transaction cycle. | 2 - Understand | - Validation <br> - Confirmed <br> - Unconfirmed <br> - Error - Status |
 | Developer: Understand Reactive Programming basics. | 2 - Understand | Observer pattern |
 | Create transactions. | 3 - Apply | |
 | Sign transactions. | 3 - Apply | |
 | Announce transactions. | 3 - Apply | |
-| Prepare mechanisms to monitor transactions. | 3 - Apply |
+| Monitor transaction status. | 3 - Apply |
 
 ## Proposed outline
 
 1. Introduction
-    * Introduce section.
-2. Transfer Transactions
-    * Define transfer transactions usage:
-        - Transfer and store of value.
-        - Transfer Mosaics.
-        - Send messages.
-        - Timestamp data.
-    * Explain transfer transactions parameters:
-        - Deadline.
-        - Recipient.
-        - Mosaic.
-        - Message.
+    * Explain transfer transactions usage:
+        - Transfer and store of value
+        - Transfer Mosaics
+        - Send messages
+        - Timestamp data
+
+2. Defining a transfer transaction
+    * Define transfer transactions parameters:
+        - Deadline
+        - Recipient
+        - Mosaic
+        - Message
     * Explain different transactions messages:
-        - Plain.
-        - Empty.
-        - Encrypted.
-        - Hex.
-    * Transaction fees.
-4. Signing and Announcing a Transfer Transaction
+        - Plain
+        - Empty
+        - Encrypted
+        - Hex
+    * Transaction fees
+
+3. Signing a transaction
     * Explain the necessity of signing transactions to ensure that the network validates the transaction comes from our account, relating the concept to the account key pair.
+    
+4. Announcing a transaction    
     * Explain how to announce a transaction.
-    * Explain transaction possible status (confirmed, unconfirmed).
-3. Introduce Reactive Programming, Rx library, Observer Pattern (Developer)
-    * Encourage to use Reactive Programming instead of futures/promises.
-5. Monitoring blockchain (Developer / SysAdmin)
+    * Describe the possible transaction status (confirmed, unconfirmed).
+    * Explain where the validation happens (API, P2P network) and how to monitor errors. 
     * Introduce Listeners: Monitor transactions once sent to the blockchain.
     * Explain the possibility of having roll-back, remarking the minimum number of confirmations when the transaction cannot be revoked.
-    * Show how to store transactions that fail, and keep track of them in case there is the need to retry sending the transaction.
+
+5.  Reactive Programming, Rx library, and the Observer Pattern (Developer)
+    * Encourage to use Reactive Programming instead of futures/promises.
     * Explain how to turn the asynchronous announcement into synchronous.
 
 ## Activities
 
-**Prototyping**                                                                                                                                                                                                                                                    
+**Prototyping**                                                                                                                                                                                                                                      
 * Send a transfer transaction. [NIS1](http://docs.nem.io/en/nanowallet/send-receive), [Catapult](https://flows.nodered.org/flow/7061090eb3cbf724c80e4f49e03e1b94)
 
 **Developer**                                                                                                                                                                                                                                                      
@@ -69,7 +72,6 @@ targets:
 **Developer / Sysadmin**
 * Avoid roll-back. [NIS1](https://gist.github.com/aleixmorgadas/3d856d318e60f901be09dbd23467b374)
 * Monitoring announced transactions. [NIS1](https://nemproject.github.io/nem-library-docs/guide/listener/),[Catapult](https://nemtech.github.io/guides/transaction/debugging-transactions.html)
-* Keep track of announced transactions that fail. TBD
 
 ## Resources
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "08. Aggregated Transactions"
+title:  "09. Aggregated Transactions"
 permalink: /units/aggregated-transactions/
 targets: 
     - "prototyping"
@@ -13,12 +13,12 @@ targets:
 
 | Learning Objective | Learning Level | Keywords |
 | --- | --- | --- |
-| Understand the aggregate transactions  properties. | 2 - Understand | - Inner transactions <br> - Co signatures |
-| Comprehend situations where aggregate transactions can be used. | 2 - Understand | - Pull transactions <br> - Decentralized Swaps <br> - Automatic Transaction Fee Payment <br> - Token conversion |
-| Understand the use of aggregate transactions. | 2 - Understand | atomic |
-| Understand why it is required to send lock funds transactions (aggregate bonded). | 3 - Apply | - Prvent spam  |
+| Identify the aggregate transactions  properties. | 1 - Remember | - Inner transactions <br> - Cosignatures |
+| Understand the use of aggregate transactions. | 2 - Understand | - Atomic transacitons <br> - Merge multiple transactions into one |
+| Comprehend situations where aggregate transactions can be used. | 2 - Understand | - Pull transactions <br> - Escrow or decentralized swap <br> - Automatic Transaction Fee Payment <br> - Token conversion |
+| Understand why it is required to send lock funds transactions before announcing an aggregate bonded transaction. | 3 - Apply | - Prevent spam  |
 | Announce and cosign aggregate transactions.| 3 - Apply | |
-| (Developer) Apply RxJs functions and operators. | 3 - Apply |  - Map() <br> - MergeMap() <br> - Filter() <br> - toArray() |
+| Apply RxJs functions and operators. (Developer) | 3 - Apply |  - Map() <br> - MergeMap() <br> - Filter() <br> - toArray() |
 | Differentiate between aggregate bonded and aggregate complete transactions | 4 - Analyze | |
 | Judge when to use aggregate bonded or aggregate complete transactions. | 5 - Evaluate |
 
@@ -26,34 +26,34 @@ targets:
 ### Proposed outline
 
 1. Introduction
-    * Introduce section.
-2. Aggregate Transactions
     * Describe the use of aggregate transactions.
         - Merge multiple transactions into one.
-        - Add atomic logic.
-        - One time smart contracts.
+        - Add atomic logic
+        - One time smart contracts
+    * Show some use cases:
+        - Pull transactions
+        - Escrow or decentralized swap
+        - Automatic Transaction Fee Payment
+        - Token conversion
+        - Sending payouts
+2. Properties
     * Explain aggregate transactions parameters: 
-        - Inner transactions.
-        - Co signatures.
-    * Remark that every transaction except aggregate transactions can be included as inner Transactions.
-3. Aggregate Complete Transaction
+        - Inner transactions
+        - Cosignatures
+    * Remark that every transaction except aggregate transactions can be included as inner transactions.
+3. Aggregate complete transaction
     * Explain that aggregate transactions are complete if before announcing it to the network, all cosigners have signed it.
-    * Show a use case: sending payouts
-4. Aggregate Bonded Transaction
+    * Announce an aggregate complete transaction
+4. Aggregate bonded transaction
     * Explain in case that the transaction requires signatures from other participants, then the transaction is considered aggregate bonded.
-    * Explain why Lock funds Transaction are required.
+    * Explain why lock funds Transaction are required.
         - Spam protection.
         - Ensure transactions are cosigned.
-    * Show some use cases:
-        - Pull transactions.
-        - Decentralized Swaps.
-        - Automatic Transaction Fee Payment.
-        - Token conversion.
-    * Show how to cosign an announced transaction.
-    <br>**Developer**
-    * Teach how to use most popular Rx operators (filter, map, flatmap, take, toArray).
-    * Explain how aggregate bonded transactions can be turned into complete.
-
+    * Announce an aggregate bonded transaction
+5. Cosign an aggregate bonded transaction (Developer)
+    * Cosign an announced transaction.
+    * Use the most popular Rx operators (filter, map, mergeMap, take, toArray).
+    * Turn an aggregate bonded transactions into complete.
 
 ## Activities
 

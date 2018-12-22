@@ -19,8 +19,8 @@ Here you have some examples of NEM courses that you will be able to create by fo
 | Cross chain transactions between NEM and Bitcoin | Learn about a specific NEM feature.| Developers and solution architects. |
 | Deploy NEM blockchain solutions  | Learn how to configure and maintain private networks | SysAdmin |
 
-## Adapting an existent course: Workshop catalog
+## Adapting an existent course: The workshop catalog
 
-Technical workshops given at conferences and companies are being standardised and open-sourced. You could opt to study one of the published workshop guides and adapt it to your target audience.
+Technical workshops used to train developers are being standardized and open-sourced. As a starting point, consider adapting one of the published courses.
 
-* [Workshop Catalog](https://nemtech.github.io/guides/workshops.html)
+* [Workshop Catalog](https://nemtech.github.io/getting-started/training.html)

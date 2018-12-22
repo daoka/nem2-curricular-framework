@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "09. Multisig Accounts"
+title:  "10. Multisig Accounts"
 permalink: /units/multisig-accounts/
 targets: 
      - "prototyping"
@@ -14,9 +14,9 @@ targets:
 
 | Learning Objective | Learning Level | Keywords |
 | --- | --- | --- |
-| Know how losing keys could affect to your multisig account | 1- Remember | |
+| Remember how losing keys could affect to your multisig account | 1- Remember | |
 | Identify constraints of multisig accounts. | 1 - Remember | - Can’t initiate transactions <br>- Editable |
-| Comprehend how multisig accounts can be used. | 2 - Understand  | - Joint accounts <br> - Increase security (2FA) <br> - Multilevel multisig: AND/OR |
+| Comprehend how multisig accounts can be used. | 2 - Understand  | - Joint accounts <br> - Increase security (2FA) <br> - Multilevel multisig: AND/OR logic |
 | Understand the multisig account properties. | 2 - Understand | - M-of-N <br> - Min approval <br>- Min removal |
 | Convert accounts to multisig accounts. | 3 - Apply |  | 
 | Convert accounts to multi-level multisig accounts. | 3 - Apply | |
@@ -24,11 +24,12 @@ targets:
 
 ## Proposed outline
 
-
 1. Introduction
-    * Introduce section.
-2. Multisig Accounts
-    * Explain multisig account usage.
+    * Explain multisig account usage:
+        - Joint accounts
+        - Increase security (2FA)
+        
+2. Properties 
     * Describe M-of-N.
     * Remark once an account can become multisig, can no longer initiate transactions from that account.
     * Describe Minimum Approval and Minimum removal parameters.
@@ -36,20 +37,20 @@ targets:
     * Describe restrictions (maximum number of cosignatories).
     * Explain multisig accounts can be undone, and the importance to keep multisig account private key.
     * Warn about losing fund access if minimum approval / removal is not reached (when keys are lost).
-    * Show different use cases:
-        - Joint accounts.
-        - Increase security (2FA).  
-3. Multilevel Multisig Accounts
+
+3. Create a multisig account
+    * Create a multisig account.
+    * Involve multisig accounts in aggregate bonded transactions.
+    * Cosing transactions involving multisig accounts.
+
+4. Multilevel Multisig Accounts
     * Show how MLMA add “AND/OR” logic to multi-signature transactions.
-    * Describe restrictions (maximum level).
     * Show different use cases:
         - Supply Chain: Quality approval
         - Improved security
         - IA
+    * Describe restrictions (maximum level).
 
-4. Transacting with multisig accounts
-    * Involve multisig accounts in aggregate bonded transactions.
-    * Show how transactions involving transactions are cosigned.
 
 ## Activities
 

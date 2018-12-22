@@ -4,36 +4,34 @@ title:  "Structure"
 permalink: /structure/
 ---
 
-The curricular framework is divided into separate proposed units by topic.  Each unit contains a set of learning objectives, a suggested outline and a group of activities and resources.
+The curricular framework is divided into separate units by topic. Each unit contains a set of learning objectives, a suggested outline and a group of activities and resources.
 
 ## Target Audience
 
-At the beginning of each unit, you will find the target audience. Activities, outline and resources could be tagged for a specific target.
+The target audience is visible at the beginning of each unit. The provided material such as activities and references could be tagged for a specific target.
 
 The framework differentiates between:
 
 **Prototyping**
 
 * No prior development knowledge needed.
-
 * Optional: Basic blockchain knowledge.
 
 **Developer**
 
-* Basic development skills required.
-    - How to write and debug a program.
-
-    -   Object-oriented programming.
-
-    -   Optional: Reactive programming and basic blockchain knowledge.
+* Basic development skills required:
+    - Write and debug a program.
+    - Know object-oriented programming.
+* Optional: Reactive programming and basic blockchain knowledge.
 
 **SysAdmin**
 
-*  Knowledge in upkeeping, configuring and ensure reliable operation of servers.
+* Knowledge in upkeeping, configuring and ensure reliable operation of servers.
+* Optional: Basic blockchain knowledge.
 
 ## Learning objectives
 
-The learning objectives are categorised using Bloom's taxonomy:
+The learning objectives are categorized using Bloom's taxonomy:
 
 | Lower order thinking        |                |            |             |              | Higher order thinking        |
 |-----------------------------|----------------|------------|-------------|--------------|------------------------------|
